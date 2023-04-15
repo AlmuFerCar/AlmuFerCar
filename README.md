@@ -7,7 +7,7 @@
 
 - 📲 Mobile developer
 - 👓Soul of criminology
-<br>
+
 ### Contact:
 
 <a href="mailto:almu13a@gmail.com" target="_blank">
@@ -15,7 +15,7 @@
 </a>
 
 ### Programming Languages:
-<img loading="lazy" src="img/Android_logo_2019_(stacked).svg.png" height= "60"><img loading="lazy" src="img/kotlin_logo.png" height= "60"><img loading="lazy" src="img/PHP-logo.svg.png" height= "60"><img loading="lazy" src="img/Java_(programming_language)-Logo.wine.png" height= "60">
+<img loading="lazy" src="img/kotlin_logo.png" height= "60"><img loading="lazy" src="img/Java_(programming_language)-Logo.wine.png" height= "60"><img loading="lazy" src="img/python.png" height= "60"><img loading="lazy" src="img/sql.png" height= "60"><img loading="lazy" src="img/javascript.png" height= "60"><img loading="lazy" src="img/html.png" height= "60">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
