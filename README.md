@@ -1,6 +1,9 @@
 ### Hi, I'm Almudena Fernández Cárdenas👋
 
-<img src="img/banner.png">
+<p align="center">
+<img loading="lazy" src="img/banner.png" height= "300">
+</p>
+
 <!--
 **AlmuFerCar/AlmuFerCar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
