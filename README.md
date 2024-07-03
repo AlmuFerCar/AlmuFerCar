@@ -19,7 +19,10 @@
 </a>
 
 ### Programming Languages:
-<img loading="lazy" src="img/kotlin_logo.png" height= "60"><img loading="lazy" src="img/Java_(programming_language)-Logo.wine.png" height= "60"><img loading="lazy" src="img/python.png" height= "60"><img loading="lazy" src="img/sql.png" height= "60"><img loading="lazy" src="img/javascript.png" height= "60"><img loading="lazy" src="img/html.png" height= "60">
+<img loading="lazy" src="img/Csharp_Logo.png" height= "60"><img loading="lazy" src="img/kotlin_logo.png" height= "60"><img loading="lazy" src="img/Java_(programming_language)-Logo.wine.png" height= "60"><img loading="lazy" src="img/python.png" height= "60"><img loading="lazy" src="img/sql.png" height= "60"><img loading="lazy" src="img/mongodb.png" height= "60"><img loading="lazy" src="img/javascript.png" height= "60"><img loading="lazy" src="img/html.png" height= "60">
+
+### Other useful tools for software development:
+<img loading="lazy" src="img/.net.png" height= "60"><img loading="lazy" src="img/docker.png" height= "60"><img loading="lazy" src="img/azure.png" height= "60">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
